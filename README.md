@@ -4,3 +4,5 @@ This a game where user has to provide answers
 * Install python
 ## Instruction
 * write answers
+* guessing answers
+* 
